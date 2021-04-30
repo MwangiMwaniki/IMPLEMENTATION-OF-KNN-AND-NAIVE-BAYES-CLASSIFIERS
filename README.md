@@ -33,6 +33,6 @@ Test Dataset Source: Link (https://archive.org/download/test1_202002/test%20%281
 ROY MWANGI MWANIKI <mwanikimwangi092@gmail.com>
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/MwangiMwaniki/IMPLEMENTATION-OF-KNN-AND-NAIVE-BAYES-CLASSIFIERS.git)
 
 
